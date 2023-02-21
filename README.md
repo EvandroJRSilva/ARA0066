@@ -147,30 +147,30 @@ Turmas
 
 **Básica**
 
-PERKOVIC, Ljubomir. **Introdução à Computação Usando Python ­- Um Foco no Desenvolvimento de Aplicações**. 1a Ed. Rio de Janeiro: LTC, 2016.
+PERKOVIC, Ljubomir. **Introdução à Computação Usando Python ­- Um Foco no Desenvolvimento de Aplicações**. 1a Ed. Rio de Janeiro: LTC, 2016. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788521630937/
 
-SEBESTA, Robert W. **Conceitos de Linguagens de Programação**. 11a Ed. Porto Alegre: Bookkman, 2018.
+SEBESTA, Robert W. **Conceitos de Linguagens de Programação**. 11a Ed. Porto Alegre: Bookkman, 2018. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788582604694/
 
-TUCKER, Allen; NOONAN, Robert. **Linguagens de Programação: Princípios e Paradigmas**. 2a Ed. Porto Alegre: AMGH, 2014.
+TUCKER, Allen; NOONAN, Robert. **Linguagens de Programação: Princípios e Paradigmas**. 2a Ed. Porto Alegre: AMGH, 2014. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788563308566/
 
 <br />
 
 **Complementar**
 
-AGUILAR, Luis Joyanes. **Programação em C++: Algoritmos, estruturas de dados e objetos**. 2a Ed.. Porto Alegre: Mc Graw Hill, 2005.
+AGUILAR, Luis Joyanes. **Programação em C++: Algoritmos, estruturas de dados e objetos**. 2a Ed.. Porto Alegre: Mc Graw Hill, 2005. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788580550269/
 
-ASCENCIO, Ana F. G.; DE CAMPOS, Edilene A. V. **Fundamentos da Programação de Computadores**. 3o Ed.. Rio de Janeiro: Pearson, 2012.
+ASCENCIO, Ana F. G.; DE CAMPOS, Edilene A. V. **Fundamentos da Programação de Computadores**. 3o Ed.. Rio de Janeiro: Pearson, 2012. <br>
 Disponível em: https://plataforma.bvirtual.com.br/Acervo/Publicacao/3272
 
-MANZANO, José Augusto N. G.; COSTA JR., Roberto A. **Programação de Computadores com Java**. 1a Ed.. São Paulo: Saraiva, 2014.
+MANZANO, José Augusto N. G.; COSTA JR., Roberto A. **Programação de Computadores com Java**. 1a Ed.. São Paulo: Saraiva, 2014. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788536519494/
 
-MENEZES, Alexandre Moreira. **Os Paradigmas de Aprendizagem de Algoritmo Computacional**. 1a Ed.. São Paulo: Editora Blucher, 2015.
+MENEZES, Alexandre Moreira. **Os Paradigmas de Aprendizagem de Algoritmo Computacional**. 1a Ed.. São Paulo: Editora Blucher, 2015. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788580391039/
 
-PINHEIRO, Francisco de A. C. **Elementos de Programação em C**. 1a Ed.. Porto Alegre: Bookman, 2012.
+PINHEIRO, Francisco de A. C. **Elementos de Programação em C**. 1a Ed.. Porto Alegre: Bookman, 2012. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788540702035/
