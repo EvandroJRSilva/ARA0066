@@ -26,7 +26,7 @@ Repositório para aulas e demais materiais da disciplina ARA0066 da Faculdade Es
 5. Subprogramas
    1. Fundamentos de subprogramas
    2. Questões de projeto para subprogramas
-6. Paradigmas: Estruturado, Orientado a Objetos, Funcional e Lógico (crédito digital)
+6. Paradigmas: Estruturado, Orientado a Objetos, Funcional e Lógico (atividade prática supervisionada)
    1. Paradigma Orientado a Objeto
    2. Paradigma Funcional
    3. Paradigma Lógico
@@ -111,7 +111,7 @@ Turmas
 
 ## **Avaliação**
 
-* Média = (AV1 + AV2 + AVD)/3
+* Média = (AV1 + AV2)/2
   * Valor mínimo: 6,0.
   * AV1
     * Prova + Trabalho.
@@ -121,11 +121,6 @@ Turmas
     * Prova + Trabalho.
     * Valor mínimo: 4,0.
     * É possível o acréscimo de 1,0 ponto através do AvA 3 e AvA 4 (0,5 de cada).
-  * AVD
-    * Prova.
-    * Valor mínimo: 4,0.
-    * Corresponde ao conteúdo do Crédito Digital.
-    * Ocorre no mesmo período da AV2.
   * AV3
     * Prova substitutiva.
     * O aluno deverá fazer essa prova se
@@ -133,11 +128,6 @@ Turmas
       * AV1 ou AV2 estiver com valor abaixo de 4,0, ou
       * Média abaixo de 6,0.
     * O valor dessa prova substituirá o menor valor entre AV1 e AV2.
-  * AVDS
-    * Prova substitutiva.
-    * O aluno deverá fazer essa prova se,
-      * Tiver faltado AVD, ou
-      * AVD com valor abaixo de 4,0.
 * Frequência mínima: 75%
   * Lembre que falta também reprova!
 
